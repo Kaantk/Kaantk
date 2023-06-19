@@ -2,18 +2,18 @@
 
 My name is Kaan. I am a software developer dealing with creative codes and innovative projects. I am full of passion to produce various technological solutions.
 
-🚀 Beceriler:
+🚀 Skills:
 - Front-end: HTML, CSS, JavaScript, 
 - Back-end: C# 
 - Veritabanı: MySQL
 - Araçlar ve Kütüphaneler: Git, VS Code, Bootstrap, SASS
 
-🎓 Eğitim:
+🎓 Education:
 - Associate Degree - Nisantasi University
 - Frontend Developer - Patika.dev
 
-📫 İletişim:
-E-posta: kaan.tk28@gmail.com
+📫 Contact:
+E-mail: kaan.tk28@gmail.com
 LinkedIn: https://www.linkedin.com/in/kaan-tetik-ba2396228/
 
 When I write code, I try to combine creativity and efficiency. I am constantly looking for learning and improvement. I enjoy working in new teams as well as developing my own projects.
