@@ -5,8 +5,8 @@ My name is Kaan. I am a software developer dealing with creative codes and innov
 🚀 Skills:
 - Front-end: HTML, CSS, JavaScript, 
 - Back-end: C# 
-- Veritabanı: MySQL
-- Araçlar ve Kütüphaneler: Git, VS Code, Bootstrap, SASS
+- Database: MySQL
+- Tools and Libraries : Git, VS Code, Bootstrap, SASS
 
 🎓 Education:
 - Associate Degree - Nisantasi University
